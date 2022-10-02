@@ -1,0 +1,56 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+:root {
+    --color-body: #FFC107;
+    --color-font: #212529;
+    --color-font2: #F8F9FA;
+}
+
+.navBox{
+    background-color: #fbfbf2;
+}
+.txt-work {
+    color: #0d6efd;
+}
+
+body .homePage {
+    background-color: #fbfbf2;
+    background-image: url(/img/hero.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+body .aboutPage{
+    background: linear-gradient(to bottom, #0d6efd 0%, #fbfbf2 100%);
+    color: #fbfbf2;
+}
+
+body .portfolioPage{
+    background: linear-gradient(to top, #0d6efd 0%, #fbfbf2 100%);
+    color: #fbfbf2;
+}
+body .skillsPage{
+    background-color: #fbfbf2;
+    color: #0d6efd;
+}
+
+body .contactPage{
+    background: linear-gradient(to top, #0d6efd 0%, #fbfbf2 67%);
+    color: #0d6efd;
+}
+.skillCols{
+    width: 60%;
+    height: auto;
+}
+
+
+.services{
+    background-color: #fbfbf2;
+}
+
+
+
+
+
